@@ -90,3 +90,9 @@ class War {
     }
 }
 
+
+const testing = new Viking("Adrian bueno", 500, 300);
+console.log(testing.receiveDamage(499.9))
+
+
+
